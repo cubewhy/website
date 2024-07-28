@@ -6,10 +6,10 @@
 
 [GitHub](https://github.com/CubeWhyMC/celestial)
 
-[向日葵alist](http://alist.lunarclient.top/d/file/celestial-2.7.1-SNAPSHOT-fatjar.jar?sign=kQUNxY_Hy49_I7eCJxn-Y-MiO4qdbZcDcLeg0r0-wj0=:0)
+[向日葵alist](http://alist.lunarclient.top/file/celestial-2.7.1-SNAPSHOT-fatjar.jar)
 
 ## 全饰品补丁
 
 > 这个插件是闭源的, 基于celepatch编写.
 
-[向日葵alist](http://alist.lunarclient.top/d/file/CosmeticsPatch-1.0-SNAPSHOT-patch.jar?sign=oB35BgFsDTFdQ8fNLV8kNuIgaqK6QUCpL8RRmYAnAoI=:0)
+[向日葵alist](http://alist.lunarclient.top/file/CosmeticsPatch-1.0-SNAPSHOT-patch.jar)
