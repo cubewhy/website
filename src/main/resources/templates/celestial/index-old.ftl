@@ -22,7 +22,7 @@
     <!-- icon -->
     <script src="/js/theme.js"></script>
     <!-- lenis -->
-    <script src="https://unpkg.com/@studio-freight/lenis@1.0.32/dist/lenis.min.js"></script>
+<#--    <script src="https://unpkg.com/@studio-freight/lenis@1.0.32/dist/lenis.min.js"></script>-->
     <script src="/js/lenis.js"></script>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-dark-5@1.1.3/dist/css/bootstrap-dark.min.css" rel="stylesheet">
