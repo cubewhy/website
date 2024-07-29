@@ -32,7 +32,7 @@
     <style>
         #intro {
             /*fuck idea, please ignore this error*/
-            background-image: url("/images/galaxy-night-view.jpg");
+            background-image: url("/images/galaxy-night-view.webp");
             height: 80vh;
         }
 
