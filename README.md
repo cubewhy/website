@@ -1,6 +1,5 @@
 # lunarclient.top
 
-由向日葵CDN提供支持
 
 不止是Minecraft
 
