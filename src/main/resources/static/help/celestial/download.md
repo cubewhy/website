@@ -6,7 +6,7 @@
 
 [GitHub](https://github.com/CubeWhyMC/celestial)
 
-[向日葵alist](http://alist.lunarclient.top/file/celestial-2.7.1-SNAPSHOT-fatjar.jar)
+[向日葵alist](http://alist.lunarclient.top/file/celestial-2.7.2-SNAPSHOT-fatjar.jar)
 
 ## 全饰品补丁
 
