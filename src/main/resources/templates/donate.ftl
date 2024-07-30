@@ -7,6 +7,8 @@
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <title>Donate us | LunarCN Official</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+    <script>LA.init({id:"3JCsOXnrmX7n0RyG",ck:"3JCsOXnrmX7n0RyG"})</script>
     <style>
         :root {
             --primary-color: #6C5CE7;
