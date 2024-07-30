@@ -10,6 +10,8 @@
     <link type="text/css" rel="stylesheet" href="/css/fullpage.css"/>
     <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="/js/fullpage.min.js"></script>
+    <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+    <script>LA.init({id:"3JCsOXnrmX7n0RyG",ck:"3JCsOXnrmX7n0RyG"})</script>
     <script>
         $(document).ready(function () {
             $('#fullpage').fullpage({
