@@ -230,7 +230,7 @@
             <div class="donate-option">
                 <h3>微信</h3>
                 <div class="pay-wrapper">
-                    <img src="/images/pay-wx.png" alt="donate with wechat" class="pay">
+                    <img src="/images/91c3d4aafd0290202a7051c164bb4421.jpg" alt="donate with wechat" class="pay">
                     <div class="scan-line"></div>
                 </div>
             </div>
